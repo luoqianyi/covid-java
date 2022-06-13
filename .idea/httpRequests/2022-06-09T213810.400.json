@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-06-09T13:38:10.188+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "Required request body is missing: public java.lang.String com.liu.covid.controller.EmpIsController.save(com.liu.covid.entity.EmpIs)",
+  "path": "/empis/save"
+}

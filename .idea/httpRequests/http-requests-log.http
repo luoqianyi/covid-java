@@ -1,0 +1,26 @@
+GET https://httpbin.org/ip
+Accept: application/json
+
+<> 2022-06-09T214125.200.json
+
+###
+
+GET https://httpbin.org/ip
+Accept: application/json
+
+<> 2022-06-09T214124.200.json
+
+###
+
+POST http://localhost:8080/empis/save
+
+<> 2022-06-09T214028.400.json
+
+###
+
+POST http://localhost:8080/empis/save
+
+<> 2022-06-09T213810.400.json
+
+###
+
