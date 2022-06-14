@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d97fdb9-c945-497c-84a3-0037193bed11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/covid_department.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/controller/DepartController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/Department.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/mapper/DepartMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/service/DepartService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/service/impl/DepartServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liu/covid/controller/DepartController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liu/covid/entity/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liu/covid/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/liu/covid/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liu/covid/mapper/DepartMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liu/covid/service/DepartService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/liu/covid/service/impl/DepartServiceImpl.class" beforeDir="false" />
-    </list>
+    <list default="true" id="4d97fdb9-c945-497c-84a3-0037193bed11" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +230,7 @@
       <workItem from="1654851780879" duration="27000" />
       <workItem from="1654952385337" duration="477000" />
       <workItem from="1655089547872" duration="4861000" />
-      <workItem from="1655123093820" duration="9635000" />
+      <workItem from="1655123093820" duration="10305000" />
     </task>
     <servers />
   </component>
