@@ -5,39 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d97fdb9-c945-497c-84a3-0037193bed11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/AddMaterial.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/AddMaterial.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/AddRecord.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/AddRecord.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/EChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/EChart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/IdenManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/IdenManage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/IsManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/IsManage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/MaterialManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/MaterialManage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/RecordManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/RecordManage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/login.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/CovidApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/CovidApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/config/CrosConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/config/CrosConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/config/MybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/config/MybatisPlusConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/controller/EmpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/controller/EmpController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/controller/EmpIdenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/controller/EmpIdenController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/controller/EmpIsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/controller/EmpIsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/controller/MaterialController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/controller/MaterialController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/EmpHealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/EmpHealth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/EmpIden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/EmpIden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/EmpIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/EmpIs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/Enum/GenderEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/Enum/GenderEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/Enum/ImpEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/Enum/ImpEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/MaterialManage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/MaterialManage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/handler/MyMetaObjectHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/handler/MyMetaObjectHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/mapper/EmpIdenMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/mapper/EmpIdenMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/mapper/EmpIsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/mapper/EmpIsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/mapper/EmpMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/mapper/EmpMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/mapper/MaterialMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/mapper/MaterialMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/mapper/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/service/ChartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/service/ChartService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/service/impl/ChartServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/service/impl/ChartServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/vo/LineVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/vo/LineVO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/liu/covid/vo/PieVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/vo/PieVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/liu/covid/CovidApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/luo/covid/CovidApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/liu/covid/controller/LoginServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/luo/covid/controller/LoginServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/liu/covid/controller/MaterialControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/luo/covid/controller/MaterialControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luo/covid/CovidApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/CovidApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,13 +117,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -192,9 +174,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CovidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="CovidApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="covid" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liu.covid.CovidApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luo.covid.CovidApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -217,8 +201,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="HTTP Request.generated-requests#1" />
+      <item itemvalue="JUnit.LoginServiceTest.delete" />
+      <item itemvalue="JUnit.LoginServiceTest.register" />
+      <item itemvalue="Spring Boot.CovidApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.CovidApplication" />
         <item itemvalue="HTTP Request.generated-requests#1" />
         <item itemvalue="JUnit.LoginServiceTest.register" />
         <item itemvalue="JUnit.LoginServiceTest.delete" />
@@ -275,7 +266,8 @@
       <workItem from="1654851780879" duration="27000" />
       <workItem from="1654952385337" duration="477000" />
       <workItem from="1655089547872" duration="4861000" />
-      <workItem from="1655123093820" duration="21138000" />
+      <workItem from="1655123093820" duration="21856000" />
+      <workItem from="1655273444911" duration="160000" />
     </task>
     <servers />
   </component>

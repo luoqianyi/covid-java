@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.liu.covid.mapper")
+@MapperScan("com.luo.covid.mapper")
 public class CovidApplication {
 
     public static void main(String[] args) {
