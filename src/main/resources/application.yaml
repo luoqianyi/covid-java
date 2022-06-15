@@ -12,4 +12,4 @@ mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
   type-enums-package:
-    com.liu.covid.entity
+    com.luo.covid.entity
