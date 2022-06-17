@@ -1,10 +1,12 @@
 # 应用名称
 spring:
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/covid?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&useSSL=false
+#    url: jdbc:mysql://127.0.0.1:3306/covid?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&useSSL=false
+    url: jdbc:mysql://1.116.189.219:3306/covid?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&useSSL=false
     username: root
     password: luoqianyi
-    driver-class-name: com.mysql.cj.jdbc.Driver
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+    driver-class-name: com.mysql.jdbc.Driver
 
 server:
   port: 8000
