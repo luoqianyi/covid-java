@@ -21,7 +21,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements Us
     public String login(User user) {
         QueryWrapper<User> userQueryWrapper = Wrappers.query();
         userQueryWrapper.like("username", user.getUsername());
-        List<User> list = mapper.selectList(userQueryWrapper);
+        List<User> list =   mapper.selectList(userQueryWrapper);
         if (list.size()!=0){
             String password= DigestUtils.md5DigestAsHex(user.getPassword().getBytes());
             if (list.get(0).getPassword().equals(password)){

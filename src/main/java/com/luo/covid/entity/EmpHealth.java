@@ -24,6 +24,6 @@ public class EmpHealth {
     private String content;
     private String depart;
     @TableField(value = "createTime" ,fill = FieldFill.INSERT)
-    @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss",timezone="GMT+8")
+    @JsonFormat(pattern = "yyyy-MM-dd",timezone="GMT+8")
     private Date createTime;
 }

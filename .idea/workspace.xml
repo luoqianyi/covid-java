@@ -17,7 +17,8 @@
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/RecordManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/RecordManage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/login.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luo/covid/CovidApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/CovidApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/EmpHealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/EmpHealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luo/covid/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/service/impl/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,15 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -210,9 +209,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.CovidApplication" />
-        <item itemvalue="HTTP Request.generated-requests#1" />
         <item itemvalue="JUnit.LoginServiceTest.register" />
         <item itemvalue="JUnit.LoginServiceTest.delete" />
+        <item itemvalue="HTTP Request.generated-requests#1" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +266,9 @@
       <workItem from="1654952385337" duration="477000" />
       <workItem from="1655089547872" duration="4861000" />
       <workItem from="1655123093820" duration="21856000" />
-      <workItem from="1655273444911" duration="160000" />
+      <workItem from="1655273444911" duration="2228000" />
+      <workItem from="1655343498137" duration="2579000" />
+      <workItem from="1655347049850" duration="17745000" />
     </task>
     <servers />
   </component>
