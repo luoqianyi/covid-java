@@ -67,7 +67,7 @@ public class EmpIdenController {
 
     @DeleteMapping("/deleteById/{id}")
     public void deleteById(@PathVariable("id")Long id){
-        mapper.deleteById(id+"L");
+        mapper.deleteById(id);
     }
 
     @GetMapping("/search/{searchkey}/{stext}")

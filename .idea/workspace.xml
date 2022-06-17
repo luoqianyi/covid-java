@@ -7,6 +7,7 @@
     <list default="true" id="4d97fdb9-c945-497c-84a3-0037193bed11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/AddMaterial.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/AddMaterial.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/AddRecord.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/AddRecord.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/EChart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/EChart.vue" afterDir="false" />
@@ -17,8 +18,6 @@
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/RecordManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/RecordManage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/login.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/EmpHealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/entity/EmpHealth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luo/covid/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luo/covid/service/impl/UserServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,17 +113,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -269,6 +257,7 @@
       <workItem from="1655273444911" duration="2228000" />
       <workItem from="1655343498137" duration="2579000" />
       <workItem from="1655347049850" duration="17745000" />
+      <workItem from="1655467367630" duration="1261000" />
     </task>
     <servers />
   </component>
