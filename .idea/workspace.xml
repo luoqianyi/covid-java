@@ -18,7 +18,7 @@
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/MaterialManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/MaterialManage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/RecordManage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/RecordManage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../前端Vue/COVID-vue/src/views/login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +259,8 @@
       <workItem from="1655343498137" duration="2579000" />
       <workItem from="1655347049850" duration="17745000" />
       <workItem from="1655467367630" duration="1261000" />
-      <workItem from="1655474197322" duration="571000" />
+      <workItem from="1655474197322" duration="1123000" />
+      <workItem from="1655519160750" duration="792000" />
     </task>
     <servers />
   </component>
